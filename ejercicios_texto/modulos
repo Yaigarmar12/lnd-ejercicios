@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <ol>
+        <li>
+            <strong>Primer curso de ciclo formativo</strong>
+            <ul>
+                <li>Implatación de sistemas operativos</li>
+                <li>Planificación y administración de redes</li>
+                <li>Lenguaje de marcas</li>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>XML</li>
+                    </ul>
+            </ul>
+        </li>
+        <li>
+            <strong>Segundo curso de ciclo formativo</strong>
+            <ul>
+                <li>Administración de sistemas operativos</li>
+                <li>Servicios de red e internet</li>
+            </ul>
+    </ol>
+</body>
